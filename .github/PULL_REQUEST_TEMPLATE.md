@@ -12,5 +12,5 @@ Explain context and other details for this pull request.
 - [ ] Added copyright headers for new files from `CONTRIBUTING.md`
 
 ### What and How 
-copilot:summary
+
 copilot:walkthrough
